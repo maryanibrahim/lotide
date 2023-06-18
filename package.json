@@ -1,0 +1,15 @@
+{
+  "name": "@maryan/lotide",
+  "version": "1.0.2",
+  "description": "collection of useful functions",
+  "main": "assertArraysEqual.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Maryan Ibrahim",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^9.2.2"
+  }
+}
